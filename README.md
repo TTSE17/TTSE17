@@ -1,16 +1,14 @@
 # Hello 👋, I'm Taha Taha
 
-I am a Software Engineer specializing in **Backend Development** with **.NET technologies**, 
-focused on building robust, scalable, and secure applications.
+I am a Software Engineer specializing in **Backend Development** using **.NET technologies**, 
+with a focus on building robust, scalable, and secure applications.
 With over **two years of experience** in designing and implementing backend solutions 
-tailored business needs while ensuring high performance and maintainability, 
-I strive to deliver quality software.
+tailored to business needs while ensuring high performance, maintainability, and quality in every project.
 
-Currently pursuing a Bachelor’s degree in **Software Engineering** at **Damascus University**, 
-continually expanding my knowledge in this field.
+I am currently pursuing a Bachelor’s degree in **Software Engineering** at **Damascus University**and 
+continually expanding my knowledge in the field.
 
-I'm excited to connect with professionals, share ideas, and explore opportunities 
-where I can contribute my skills and gain more experience.
+I'm excited to connect with professionals, exchange ideas, and explore opportunities where I can contribute my skills while gaining valuable experience.
 
 <br>
 
