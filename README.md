@@ -1,10 +1,8 @@
 # Hello 👋, I'm Taha Taha
 
-Software Engineer specializing in **Backend Development** using **.NET technologies**, 
-with a focus on building robust, scalable, and secure applications.
+Software Engineer with expertise in **.NET technologies**, with a focus on building robust, scalable, and secure applications.
 
-Over **two years of experience** in designing and implementing backend solutions 
-tailored to business needs while ensuring high performance, maintainability, and quality in every project.
+With over **two years of experience** in designing and implementing high-performance solutions tailored to business needs while ensuring maintainability, and quality in every project
 
 I am currently pursuing a Bachelor’s degree in **Software Engineering** at **Damascus University**and 
 continually expanding my knowledge in the field.
@@ -12,10 +10,11 @@ continually expanding my knowledge in the field.
 <br>
 
 ## 🌟 Technologies & Skills
-- **Back-End:** C#, ASP.NET Core Web API, Entity Framework Core, ADO.NET, LINQ.
-- **Databases:** Microsoft SQL Server
+- **Back-End:** C#, ASP.NET Core (Web API | MVC), Entity Framework Core, ADO.NET, LINQ, Windows Services, Worker Services.
+- **Databases:** Microsoft SQL Server, T-SQL.
 - **Frontend:** JavaScript, Windows Forms, HTML5, CSS3, Bootstrap, Responsive Web Design.
-- **Development Practices:** SOLID Principles, Design Principles, Design Patterns, Three-Tier Architecture.
+- **Development Practices:** SOLID Principles, Design Patterns, Three-Tier Architecture, Repository Pattern & Unit of Work.
+- **Software Testing:** Unit Testing (xUnit, MSTest).
 - **Version Control:** Git, GitHub
 
 <br>
