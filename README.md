@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
 # Hello 👋, I'm Taha Taha
 
 Software Engineer with expertise in **.NET technologies**, with a focus on building robust, scalable, and secure applications.
@@ -18,6 +23,16 @@ continually expanding my knowledge in the field.
 - **Version Control:** Git, GitHub
 
 <br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="55" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="csharp logo"  />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div> 
 
 ## 📫 Get in Touch
 - Email : Taha.Alsheikh.Taha@gmail.com
