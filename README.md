@@ -26,13 +26,9 @@ continually expanding my knowledge in the field.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="55" alt="dot-net logo"  />
-  <img width="12" />
+  <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="csharp logo"  />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> 
 
 ## 📫 Get in Touch
 - Email : Taha.Alsheikh.Taha@gmail.com
